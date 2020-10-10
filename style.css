@@ -1,5 +1,5 @@
 html {
- /* prevents padding from adding extra width and height. page is stretched/ reduced to fit the browser window */
+ /* prevents ___padding from adding extra width and height. page is stretched/ reduced to fit the browser window */
  box-sizing: border-box; 
 }
 
